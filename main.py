@@ -14,8 +14,9 @@ def expensive_computation():
         
         questions = [
             'Which Yoga Asana depicts an Acute angle ?',
-                'Who is the famous Indian Women Mathematician popularly know as "Human Calculator"?',
-                'Which state has the highest Health Index in India ?'
+                'Which state has the highest Health Index in India ?',
+                'Who is the famous Indian Women Mathematician popularly know as "Human Calculator"?'
+                
         ]
         # question = ''
         
